@@ -1,0 +1,59 @@
+{
+  "dealerships": [
+    {
+      "id": 3,
+      "city": "Wichita",
+      "state": "Kansas",
+      "address": "789 Auto Plaza Dr",
+      "zip": "67201",
+      "lat": 37.6872,
+      "long": -97.3301,
+      "short_name": "Wichita Motors",
+      "full_name": "Wichita Motors Dealership"
+    },
+    {
+      "id": 15,
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "123 Main St",
+      "zip": "94105",
+      "lat": 37.7749,
+      "long": -122.4194,
+      "short_name": "SF Toyota",
+      "full_name": "San Francisco Toyota Dealership"
+    },
+    {
+      "id": 29,
+      "city": "Los Angeles",
+      "state": "CA",
+      "address": "456 Honda Way",
+      "zip": "90001",
+      "lat": 34.0522,
+      "long": -118.2437,
+      "short_name": "LA Honda",
+      "full_name": "Los Angeles Honda Dealership"
+    },
+    {
+      "id": 4,
+      "city": "Kansas City",
+      "state": "Kansas",
+      "address": "321 Dealership Road",
+      "zip": "66101",
+      "lat": 39.1147,
+      "long": -94.6270,
+      "short_name": "KC Auto",
+      "full_name": "Kansas City Auto Dealership"
+    },
+    {
+      "id": 5,
+      "city": "Topeka",
+      "state": "Kansas",
+      "address": "555 Car Avenue",
+      "zip": "66601",
+      "lat": 39.0473,
+      "long": -95.6752,
+      "short_name": "Topeka Cars",
+      "full_name": "Topeka Cars and Service"
+    }
+  ]
+} 

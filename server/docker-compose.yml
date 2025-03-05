@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  mongo_db:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+
+  server:
+    build: .
+    ports:
+      - "3030:3030"
+    depends_on:
+      - mongo_db
+    volumes:
+      - ./reviews.json:/app/reviews.json
+      - ./dealerships.json:/app/dealerships.json
+
+volumes:
+  mongodb_data: 

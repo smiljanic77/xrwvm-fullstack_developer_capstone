@@ -1,0 +1,37 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "dealership": 15,
+      "review": "Great service!",
+      "purchase": true,
+      "purchase_date": "2024-01-01",
+      "car_make": "Toyota",
+      "car_model": "Camry",
+      "car_year": 2023
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "dealership": 29,
+      "review": "Excellent experience buying my new car. The staff was very helpful and professional.",
+      "purchase": true,
+      "purchase_date": "2024-02-15",
+      "car_make": "Honda",
+      "car_model": "Civic",
+      "car_year": 2024
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "dealership": 29,
+      "review": "Quick and efficient service department. Would recommend!",
+      "purchase": false,
+      "purchase_date": "2024-03-01",
+      "car_make": "Honda",
+      "car_model": "Accord",
+      "car_year": 2022
+    }
+  ]
+} 
